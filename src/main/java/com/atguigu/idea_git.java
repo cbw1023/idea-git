@@ -5,5 +5,6 @@ public class idea_git {
         System.out.println("idea_git");
         System.out.println("idea_git222222");
         System.out.println("idea_git333333333");
+        System.out.println("push");
     }
 }
